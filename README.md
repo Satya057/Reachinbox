@@ -1,5 +1,3 @@
-
-
 The assignment is to use the designs and APIs provided and create a functional web app as per the following instructions -
 
 Implement the login page - Use the design provided
