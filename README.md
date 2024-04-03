@@ -7,7 +7,8 @@ Utilize HTML, CSS, and possibly JavaScript for client-side validation.
 
 Integrate with the provided login API.
 
- 
+ ![Sample Image](https://i.ibb.co/hZmK2xB/sample-image.png)
+
 
 **2. Navigate to Onebox Screen After Login**
 
