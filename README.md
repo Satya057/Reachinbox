@@ -7,6 +7,8 @@ Utilize HTML, CSS, and possibly JavaScript for client-side validation.
 
 Integrate with the provided login API.
 
+!(https://ibb.co/hZmK2xB)
+
 **2. Navigate to Onebox Screen After Login**
 
 Upon successful login, redirect the user to the onebox screen (/google-login).
