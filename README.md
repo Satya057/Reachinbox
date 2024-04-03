@@ -14,6 +14,9 @@ Integrate with the provided login API.
 
 Upon successful login, redirect the user to the onebox screen (/google-login).
 
+![Your Image Description](https://i.ibb.co/DtJdndN/your-image.png)
+
+
 **3. Fetch Data in Onebox**
 
 Use API integration to fetch data for the onebox screen.
@@ -26,6 +29,7 @@ Implement DELETE requests to remove data if required.
 
 Integrate a custom text editor into your web app.
 
+![Home Page Screenshot](https://i.ibb.co/5nHdFPf/home-page.png)
 Add custom buttons such as "SAVE" and "Variables" to the editor UI.
 
 Use JavaScript to handle button functionalities.
@@ -33,6 +37,8 @@ Use JavaScript to handle button functionalities.
 **5. Implement Reply Functionality**
 
 Create a UI for composing and sending replies.
+![Reply Function Screenshot](https://i.ibb.co/jVz1r5J/reply-function.png)
+
 
 Upon clicking "send", utilize the provided API to send a reply.
 
